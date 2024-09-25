@@ -2,6 +2,10 @@
 
 This project features an interactive Tableau Public dashboard titled **"CO2 Emissions in the USA"**. The dashboard visualizes carbon dioxide emissions data from 2014 to 2021 across different sectors (Residential, Industrial, Commercial, Transportation, and Electric Power) and states in the U.S.
 
+### Data Source
+- **Data File**: [CO2 Emissions dataset from Kaggle](https://www.kaggle.com/datasets/abdelrahman16/co2-emissions-usa/data)
+- **Original Table**: `emissions`
+
 ## Key Functionalities:
 
 - **Map View**: Displays CO2 emissions per state, with an interactive color gradient representing emission levels.
