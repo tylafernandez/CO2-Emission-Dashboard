@@ -17,7 +17,7 @@ The dashboard provides a comprehensive overview of carbon dioxide emissions, all
 
 ## View the Dashboard
 
-To explore the interactive Tableau dashboard, [click here](https://public.tableau.com/shared/YG543YPG4?:display_count=n&:origin=viz_share_link).
+To explore the interactive Tableau dashboard, [click here](https://public.tableau.com/views/CO2EmissionsintheUSA/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 
 
